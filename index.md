@@ -20,7 +20,7 @@ The definition of the Internet of things has evolved due to the convergence of m
 
 	</div>
 	<br>
-	<a href="first.html">Переход на вторую страницу</a>
+	<a href="first.md">Переход на вторую страницу</a>
 	<br>
 	<br>
 	<div>
@@ -31,7 +31,7 @@ There are a number of serious concerns about dangers in the growth of IoT, espec
 	<img src="second.jpg" align="right">
 	<br>
 	<br>
-	<a href="second.html" target="_blank">Переход на третью страницу</a>
+	<a href="second.md" target="_blank">Переход на третью страницу</a>
 
 </body>
 
