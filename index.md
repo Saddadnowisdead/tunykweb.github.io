@@ -27,7 +27,7 @@ The definition of the Internet of things has evolved due to the convergence of m
 		According to a research by GSMA there will be significant growth of IoT connectivity in the market from 2020s to 2025. It's predicted that there will be more than 24 billion IoT connections worldwide in 2025 with revenue of more than $906 billion. China being one of the biggest IoT market in Asia Pacific will have more than 2 billion connections, and APAC leading with smart homes and smart buildings.
 There are a number of serious concerns about dangers in the growth of IoT, especially in the areas of privacy and security, and consequently industry and governmental moves to address these concerns have begun including the development of international standards.
 	</div>
-	<img src="third.jpg" align="left">
+	<img src="third.jpg" align="left" width="200" height="200">
 	<img src="second.jpg" align="right">
 	<br>
 	<br>
