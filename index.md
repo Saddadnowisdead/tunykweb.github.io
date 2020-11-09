@@ -20,7 +20,7 @@ The definition of the Internet of things has evolved due to the convergence of m
 
 	</div>
 	<br>
-	<a href="first.md">Переход на вторую страницу</a>
+	<a href="https://www.google.com/search?q=IoT&sxsrf=ALeKk00r1X4hs26-9UA2NqBV1Og1DfbBlA:1604915709242&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7p_n1mPXsAhWMTcAKHdWwC0EQ_AUoAXoECA4QAw&biw=1366&bih=657">Картинки</a>
 	<br>
 	<br>
 	<div>
@@ -31,7 +31,7 @@ There are a number of serious concerns about dangers in the growth of IoT, espec
 	<img src="second.jpg" align="right">
 	<br>
 	<br>
-	<a href="second.md" target="_blank">Переход на третью страницу</a>
+	<a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank">Статья про IoT</a>
 
 </body>
 
